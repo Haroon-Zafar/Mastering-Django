@@ -1,0 +1,25 @@
+Django Concepts
+
+
+
+1. django-admin : 
+
+- command line tool that ships with Django. I
+- several useful commands for getting started with and managing a Django project
+
+
+2. Django project :
+
+-  Python codebase ( complete body of source code for a software program ) that contains    Django settings file
+
+
+
+3.  Django app :
+
+-  Python Package
+- contains models.py by default
+
+
+HOW TO CREATE AN app ? 
+
+>> django-admin startapp <app_name_here_without_curly_brackets>
