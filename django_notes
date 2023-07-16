@@ -31,3 +31,5 @@ HOW TO CREATE AN app ?
 - collects all database models defined in models.py
 - creates database tables based on those model classes. 
 
+
+5. First, setup your database by modifying the DATABASES setting in settings.py
