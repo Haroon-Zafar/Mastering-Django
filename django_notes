@@ -39,3 +39,8 @@ HOW TO CREATE AN app ?
 
 7. >> python manage.py migrate
 
+
+8. Virtual Environment :
+
+A virtual environment is a container (a directory) that holds a specific version of
+Python and a set of modules (dependencies)
