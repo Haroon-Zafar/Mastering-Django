@@ -17,6 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+# from project_name import views_file_name
+# Importing hello() from views.py file.
+from myproject import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('^$', views.hello),
 ]
